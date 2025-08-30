@@ -7,7 +7,7 @@ let msg = document.querySelector(".msg")
 let draw = true;
 let count = 0;
 
-let turn_O = true;
+let turn_O = true; 
 
 
 
