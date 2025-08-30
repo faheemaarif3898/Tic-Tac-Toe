@@ -7,9 +7,11 @@ A simple *Tic Tac Toe* game built using *HTML, CSS, and JavaScript*.
 - Or open index.html in your browser to play the game.  
 
 ## Features
-- 2-player Tic Tac Toe game.  
-- Detects win, loss, and draw.  
-- Clean and simple UI.  
+- 2-player Tic Tac Toe game  
+- Detects win, loss, and draw  
+- "New Game" button to restart with new cleared board  
+- "Reset" button to clear the board 
+- Clean and simple UI 
 
 ## Tech Stack
 - HTML
