@@ -21,6 +21,6 @@ A simple *Tic Tac Toe* game built using *HTML, CSS, and JavaScript*.
 ## How to Run
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/<your-username>/tic-tac-toe
+   git clone https://github.com/faheemaarif3898/tic-tac-toe
 
 2. Open index.html in your browser.
